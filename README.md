@@ -1,7 +1,7 @@
 # Javascript Unit Testing
 <h3>Using Mocha with Chai assertions.</h3>
 
-<p>Inspired via a YouTube crash course provided by <a href="https://https://youtu.be/MLTRHc5dk6s">Traversy Media</a>.</p>
+<p>Inspired by a YouTube crash course provided by <a href="https://https://youtu.be/MLTRHc5dk6s">Traversy Media</a>.</p>
 
 <ul>
     <li>Built Using:
